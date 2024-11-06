@@ -1,9 +1,9 @@
-class Cat():
+class Cat:
 
     def make_sound(self):
         return "meow"
     
-class Dog():
+class Dog:
 
     def make_sound(self):
         return "woof"

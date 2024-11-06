@@ -1,4 +1,4 @@
-class Engine():
+class Engine:
 
     def Start(self):
         return "Car started"
@@ -6,7 +6,7 @@ class Engine():
     def Stop(self):
         return "Car stopped"
     
-class Car():
+class Car:
     def __init__(self):
       self.engine = Engine()
     

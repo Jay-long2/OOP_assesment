@@ -1,4 +1,4 @@
-class Rectangle():
+class Rectangle:
     def __init__(self,length,width):
         # If width is not provided, assume a square and set width equal to length
         if width is None:

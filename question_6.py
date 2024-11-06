@@ -1,4 +1,4 @@
-class Employee ():
+class Employee:
 
     def calculate_salary(self):
         return "Calculating salary for an employee."
